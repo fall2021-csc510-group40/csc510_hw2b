@@ -6,7 +6,7 @@ import (
 
 func TestisPalindrome(t *testing.T){
     word := "abcba"
-    if isPalindrome(word){
+    if IsPalindrome(word){
 	  t.Errorf("%v is a palindrome",word)
 }
 }
