@@ -2,4 +2,4 @@ language: go
 go:
   - 1.11.x
 script:
-  - go test -v code/main_test.go 
+  - go test -v ./... 
