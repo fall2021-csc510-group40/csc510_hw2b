@@ -13,3 +13,9 @@ func isPalindrome(word string) bool {
 fmt.Println("%s is a palindrome",word)
 return true
 }
+
+func main(){
+
+fmt.Println("Palindrome Test")
+
+}
