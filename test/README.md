@@ -1,4 +1,4 @@
 # Tests
 
 ### test_answer
-Tests if the increment python function works
+Tests if the IsPalindrome go function works 
