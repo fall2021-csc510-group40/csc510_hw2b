@@ -13,7 +13,7 @@ func IsPalindrome(word string) bool {
 return true
 }
 
-func TestisPalindrome(t *testing.T){
+func TestIsPalindrome(t *testing.T){
     word := "abcba"
     if IsPalindrome(word){
 	  t.Errorf("%v is a palindrome",word)
