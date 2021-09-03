@@ -1,5 +1,8 @@
-language: go
-go:
-  - 1.11.x
+language: python
+python:
+  - "3.8"
+  - "3.9"
+install:
+  ./setup.py install
 script:
-  - go test -cover -v ./... 
+  - pytest

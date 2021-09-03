@@ -1,4 +1,4 @@
-from model import get_potf_last_name
+from hw_code import get_potf_last_name
 
 
 def test_real():
