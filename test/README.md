@@ -1,4 +1,3 @@
 # Tests
 
-### test_answer
-Tests if the IsPalindrome go function works 
+Tests for hw\_code module. Run with `pytest` from the parent directory.
