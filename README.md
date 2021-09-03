@@ -1,7 +1,7 @@
 # csc510_hw2b
 
 [![DOI](https://zenodo.org/badge/401825043.svg)](https://zenodo.org/badge/latestdoi/401825043)
-![Travis CI status](https://app.travis-ci.com/fall2021-csc510-group40/csc510_hw2b.svg?branch=main)
+[![Build Status](https://app.travis-ci.com/fall2021-csc510-group40/csc510_hw2b.svg?branch=main)](https://app.travis-ci.com/fall2021-csc510-group40/csc510_hw2b)
 
 Welcome to the repository for the Homework 2b submission by CSC 510 f21 Group 40.
 
